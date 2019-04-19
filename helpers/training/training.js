@@ -50,7 +50,7 @@ function addHealthandfintess
         
         targetArea: healthandfitness.targetArea,
         
-        training_id: .training_id
+        training_id: training_id
     })
 
 }
